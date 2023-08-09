@@ -5,8 +5,7 @@
 
 #### 测试下载
 
-链接：https://pan.baidu.com/s/1wVpViSQr9jq2x5VmvzHi9g 
-提取码：lfwo
+链接：https://pan.baidu.com/s/1tT3rtPmlLukyZ9YdtMROdg?pwd=jnhx
 
 #### 软件架构
 软件架构说明
